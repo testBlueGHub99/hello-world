@@ -1,6 +1,6 @@
 """ Lesson 10 exercises """
 
-''' Exercise to read a text file and print out each line
+''' Exercises to read a text file and print out each line
 stock_filename = 'Lesson6_Data - Stocks.txt'
 
 with open(stock_filename) as file_object:
